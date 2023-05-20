@@ -1,0 +1,24 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Sachin Tendulkar",
+            "notes":[{}]
+        },
+        {
+            "id":2,
+            "name":"Irrfan",
+            "notes":[{}]
+        },
+        {
+            "id":3,
+            "name":"Anita",
+            "notes":[{}]
+        },
+        {
+            "id":4,
+            "name":"Imran Khan",
+            "notes":[{}]
+        } 
+    ]
+}
