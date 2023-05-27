@@ -20,5 +20,39 @@
             "name":"Imran Khan",
             "notes":[{}]
         } 
+    ],
+    "poll":[
+        {
+            "id":1,
+            "name":"Anita",
+            "phoneNo":"9876543210",
+            "msg":"Hello Anita",
+            "answer":""
+        }
+        ,
+        {
+            "id":2,
+            "name":"Irrfan",
+            "phoneNo":"9876544560",
+            "msg":"Hello Irrfan",
+            "answer":""
+        },
+        {
+            "id":3,
+            "name":"Sam",
+            "phoneNo":"9877844560",
+            "msg":"Hello Sam",
+            "answer":""
+        },
+        {
+            "id":4,
+            "name":"Sam",
+            "phoneNo":"9877844560",
+            "msg":"Hello Sam",
+            "answer":""
+           
+           
+
+        }
     ]
 }
