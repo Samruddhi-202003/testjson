@@ -49,10 +49,13 @@
             "name":"Sam",
             "phoneNo":"9877844560",
             "msg":"Hello Sam",
-            "answer":""
-           
-           
+            "answer":"" 
 
         }
+    ],
+
+    "totalPoll":[
+        {   "id":1,
+            "value":""}
     ]
 }
